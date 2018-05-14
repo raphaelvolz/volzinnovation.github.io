@@ -1,3 +1,5 @@
+[README.md](English)
+
 ![Volz Innovation Logo](volz_logo.jpg)
 # 10 Jahre Volz Innovation GmbH
 Seit 2008 unterstützen wir führende Organisationen beim Einsatz und der Entwicklung neuer Technologien. Dabei kombinieren wir Methodenkompetenzen in Design Thinking und agiler Produktentwicklung mit solidem Projektmanagement und guter Kommunikation. 
