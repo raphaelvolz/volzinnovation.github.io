@@ -1,31 +1,14 @@
 ![Volz Innovation Logo](volz_logo.jpg)
 # 10 Jahre Volz Innovation GmbH
-Seit 2008 unterstützen wir führende Organisationen beim Einsatz und der Entwicklung neuer Technologien. 
-Gerne unterstützen wir auch Ihr Vorhaben! 
+Seit 2008 unterstützen wir führende Organisationen beim Einsatz und der Entwicklung neuer Technologien. Dabei kombinieren wir Methodenkompetenzen in Design Thinking und agiler Produktentwicklung mit solidem Projektmanagement. 
 
-## Auszeichnungen
+Wir gehören zu den führenden deutschen Experten in verteiltem Rechnen (Cloud Computing) und Künstliche Intelligenz (KI). Wir verstehen und sprechen Automotive, IKT, Medizintechnik, und Pharma. 
 
-Über die Jahre haben wir zahlreiche Auszeichnungen für unsere Arbeit erhalten. Zum Beispiel werden wir
-seit vier Jahren vom Stifterverband der deutschen Wissenschaft für unsere Innovationskraft gewürdigt.
-
-![Innovativ durch Forschung 2016,2017](FuE16.png)
-![Innovativ durch Forschung 2018,2019](FuE18.png)
-
-## Kontakt
-
-Rufen Sie uns an [+49 70 83 93 28 338](tel:+4970839328338) oder schreiben Sie an [info@volzinnovation.com](mailto:info@volzinnovation.com), gerne verschlüsselt (siehe unten). Wir freuen uns auch immer über Besucher, bitte stimmen sie einen Besuchstermin vorher per Telefon oder E-Mail ab:
-
-Volz Innovation GmbH, Kirchhaldenweg 10, D-76597 Loffenau [Karte](https://www.openstreetmap.org/way/220058489)
-
-## Standorte
-
-Neben unserem Hauptsitz unterhalten wir Projektbüros in Nähe unserer aktuellen Kundenprojekte. 
-
-Werkstudierende und Praktikant(in)en können auch in unserem Büro im [EMMA Kreativzentrum](http://www.emma-pf.de/) Pforzheim arbeiten und finden dort ein kreatives Umfeld.
+Neugierig ? Gerne unterstützen wir auch Ihr Vorhaben! 
 
 ## Kunden
 
-Zu unseren Mandanten gehören Innovationsführer in Deutschland und der Schweiz, zum Beispiel:
+Zu unseren Mandaten gehören Projekte bei Innovationsführern in Deutschland und der Schweiz, zum Beispiel:
 
 ![Boehringer Ingelheim](boehringer_ingelheim.png)
 
@@ -39,7 +22,27 @@ Zu unseren Mandanten gehören Innovationsführer in Deutschland und der Schweiz,
 
 ![Roche](roche.png)
 
-## Sichere Kommunikation:
+## Auszeichnungen
+
+Über die Jahre haben wir zahlreiche Auszeichnungen für unsere Arbeit erhalten. Zum Beispiel werden wir
+seit vier Jahren vom Stifterverband der deutschen Wissenschaft für unsere Innovationskraft gewürdigt.
+
+![Innovativ durch Forschung 2016,2017](FuE16.png)
+![Innovativ durch Forschung 2018,2019](FuE18.png)
+
+## Standorte
+
+Neben unserem Hauptsitz unterhalten wir Projektbüros in Nähe unserer aktuellen Kundenprojekte. 
+
+Werkstudierende und Praktikant(in)en können auch in unserem Büro im [EMMA Kreativzentrum](http://www.emma-pf.de/) Pforzheim arbeiten und finden dort ein kreatives Umfeld.
+
+## Kontakt
+
+Rufen Sie uns an [+49 70 83 93 28 338](tel:+4970839328338) oder schreiben Sie an [info@volzinnovation.com](mailto:info@volzinnovation.com), gerne verschlüsselt (siehe unten). Wir freuen uns auch immer über Besucher, bitte stimmen sie einen Besuchstermin vorher per Telefon oder E-Mail ab:
+
+Volz Innovation GmbH, Kirchhaldenweg 10, D-76597 Loffenau ([Karte](https://www.openstreetmap.org/way/220058489))
+
+## Sichere Kommunikation
 Bitte nutzen Sie den folgenden öffentlichen PGP Schlüssel, um uns eine vertrauliche Nachricht zu schicken. 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
