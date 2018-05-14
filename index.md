@@ -28,10 +28,15 @@ Werkstudierende und Praktikant(in)en können auch in unserem Büro im [EMMA Krea
 Zu unseren Mandanten gehören Innovationsführer in Deutschland und der Schweiz, zum Beispiel:
 
 ![Boehringer Ingelheim](boehringer_ingelheim.png)
+
 ![Robert Bosch](bosch.png)
+
 ![Clinerion](clinerion.jpg)
+
 ![EnBW](enbw.png)
+
 ![Fiducia GAD](fiducia_gad.png)
+
 ![Roche](roche.png)
 
 ## Sichere Kommunikation:
