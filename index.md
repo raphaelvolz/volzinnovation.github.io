@@ -12,13 +12,9 @@ Gerne unterstützen wir auch Ihr Vorhaben!
 
 ## Kontakt
 
-Rufen Sie an [+49 70 83 93 28 338](tel:+4970839328338]) oder schreiben Sie an [info@volzinnovation.com](mailto:info@volzinnovation.com). Wir freuen uns auch immer über Ihren Besuch:
+Rufen Sie an [+49 70 83 93 28 338](tel:+4970839328338) oder schreiben Sie an [info@volzinnovation.com](mailto:info@volzinnovation.com). Wir freuen uns auch immer über Ihren Besuch:
 
-Volz Innovation GmbH
-Kirchhaldenweg 10
-D-76597 Loffenau
-Deutschland
-
+Volz Innovation GmbH, Kirchhaldenweg 10, D-76597 Loffenau [Karte](https://www.openstreetmap.org/way/220058489)
 ## Standorte
 
 Neben unserem Hauptsitz unterhalten wir Projektbüros in Nähe unserer aktuellen Kundenprojekte. 
@@ -27,7 +23,7 @@ Werkstudierende und Praktikant(in)en können auch in unserem Büro im [EMMA Krea
 
 ## Kunden
 
-Zu unseren Mandanten gehören Innovationsführer im Südwesten der Bundesrepublik und er Schweiz, zum Beispiel:
+Zu unseren Mandanten gehören Innovationsführer in Deutschland und der Schweiz, zum Beispiel:
 
 ![Boehringer Ingelheim](boehringer_ingelheim.png)
 ![Robert Bosch](bosch.png)
@@ -39,25 +35,15 @@ Zu unseren Mandanten gehören Innovationsführer im Südwesten der Bundesrepubli
 
 ## Impressum
 
-Angaben gemäß § 5 TMG:
+Unsere Angaben gemäß § 5 TMG
 
-Volz Innovation GmbH
-Kirchhaldenweg 10
-76597 Loffenau
-
-Vertreten durch Geschäftsführender Gesellschafter Prof.Dr. Raphael Volz, Dipl. Inform.
-
-Kontakt per Telefon: +49 7083 9328338
-
-Kontakt per E-Mail: info@volzinnovation.com
+Die Volz Innovation GmbH, Kirchhaldenweg 10, 76597 Loffenau wird vertreten durch Geschäftsführender Gesellschafter Prof.Dr. Raphael Volz. Sie können uns telefonisch unter +49 7083 9328338 erreichen, gerne auch eine E-Mail an info@volzinnovation.com sind.
 
 ### Registereintrag:
-Registergericht:Mannheim
-Registernummer: HRB 70 44 18
+Die Firma wird vom Registergericht Mannheim unter der  Registernummer HRB 70 44 18 geführt.
 
 ### Umsatzsteuer:
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
-DE 25 99 68 336
+Unsere Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz ist DE 25 99 68 336
 
 ### Streitschlichtung
 Da wir keine Leistungen für Verbraucher anbieten nehmen wir an Streitbeilegungsverfahren vor einer
@@ -75,7 +61,6 @@ Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entspr
 Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
 ### Haftung für Links
-
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben.
 Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der
 verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten
