@@ -27,21 +27,22 @@ Our clients are innovation leaders in Germany and Switzerland, for example:
 
 ## Awards
 
-Over the years we have received numerous awards for our work. For example, we will
-for four years now by the Stifterverband der deutschen Wissenschaft for our innovation capabilities.
+Over the years we have received numerous awards for our work. For example, the Stifterverband der deutschen Wissenschaft has certified our distinctive innovation capabilities for four years in a row.
 
 ![Innovative through research 2016,2017](FuE16.png)
 ![Innovative through research 2018,2019](FuE18.png)
 
 ## Locations
 
-In addition to our headquarters, we maintain project offices close to our current customer projects. 
+In addition to our headquarters, we maintain temporary project offices close to our current customer projects. 
 
-Working students and interns can also work in our office in the[EMMA Creative Centre](http://www.emma-pf.de/) Pforzheim and find a creative environment there.
+Working students and interns can also work in our office in the[EMMA Kreativzentrum](http://www.emma-pf.de/) Pforzheim and find a creative environment there.
 
 ## Contact
 
-Call us at [+49 70 83 93 93 28 338](tel:+4970839328338) or write to[info@volzinnovation.com](mailto:info@volzinnovation.com), encrypted (see below). We always welcome visitors, please make an appointment in advance by phone or e-mail:
+Call us at [+49 70 83 93 93 28 338](tel:+4970839328338) or write to [info@volzinnovation.com](mailto:info@volzinnovation.com), you can send PGP-encrypted emails (see our public key below). 
+
+We always welcome visitors, please make an appointment in advance by phone or e-mail:
 
 Volz Innovation GmbH, Kirchhaldenweg 10, D-76597 Loffenau ([map](https://www.openstreetmap.org/way/220058489))
 
