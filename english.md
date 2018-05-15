@@ -100,7 +100,7 @@ GeckqdIllm3muG7pHq1Kw5yKUYQM2uzWDQwk53ych1Iu2YTvQtoTkIrpwG9K
 9fVW
 =2Ski
 -----END PGP PUBLIC KEY BLOCK-----
-´´´
+```
 
 We also sign our e-mails with S/MIME to prove their authenticity.
 
