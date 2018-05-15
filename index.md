@@ -148,7 +148,7 @@ dieser Datenschutzerklärung.
 
 Personenbezogene Daten werden spätestens 30 Tage nach Ablauf der gesetzlichen Aufbewahrungsfristen gelöscht. Dabei fassen wir alle E-Mails als Geschäftsbriefe auf.
 
-Die Nutzung unserer Website ist ohne Angabe personenbezogener Daten möglich. Wir nutzen weder Cookies, noch Analyse-Software zur Besucherverfolgung, und haben auch sonst weder Interesse noch Zeit für eine Überwachung unserer Benutzer. 
+Die Nutzung unserer Website ist ohne Angabe personenbezogener Daten möglich. Wir nutzen weder Cookies, noch Analyse-Software zur Besucherverfolgung, und haben auch sonst weder Interesse an noch Zeit für der Überwachung unserer Webseitenbesucher. 
 Soweit jemals auf unserer Webseite personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden sollten, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail)
@@ -158,7 +158,7 @@ Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zug
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen
 Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf
 Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema
-personenbezogene Daten können Sie sich jederzeit unter der obens) angegebenen Adresse an
+personenbezogene Daten können Sie sich jederzeit unter der oben angegebenen Adresse an
 uns wenden.
 
 *Datenschutzerklärung auf Basis von https://www.e-recht24.de/impressum-generator.html*
