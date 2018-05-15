@@ -5,13 +5,13 @@
 # 10 years of Volz Innovation GmbH
 Since 2008 we have been supporting leading organisations in the use and development of new technologies. We combine methodological skills in design thinking and agile product development with solid project management and good communication. 
 
-We are one of the leading German experts in distributed computing (Cloud Computing) and artificial intelligence (AI). We understand and speak automotive, ICT, medical technology, and pharmaceuticals. 
+We belong to the leading German experts in Cloud Computing and Artificial Intelligence (AI). We understand and speak automotive, ICT, medical technology, and pharmaceuticals. 
 
-Curious? We would be happy to support your project! 
+Curious? We would be happy to discuss your project needs! 
 
 ## Customers
 
-Our clients include projects with innovation leaders in Germany and Switzerland, for example:
+Our clients are innovation leaders in Germany and Switzerland, for example:
 
 ![Boehringer Ingelheim](boehringer_ingelheim.png)
 
@@ -149,20 +149,20 @@ this privacy policy.
 
 Personal data will be deleted no later than 30 days after expiry of the legal retention periods. We regard all e-mails as business letters.
 
-The use of our website is possible without providing personal data. We do not use cookies or analysis software to track visitors and have no other interest or time to monitor our users. 
-As far as ever on our website personal data (such as name, address or e-mail addresses) should be collected, this is, as far as possible, always on a voluntary basis. This data will not be passed on to third parties without your express consent.
+The use of our website is possible without providing any personal data at all. We do not use cookies or analysis software to track visitors and have no other interest or time to monitor the visitors of our website.
+
+If (ever) personal data (such as name, address or e-mail addresses) should be collected on our website, this will be, as far as possible, always on a voluntary basis. Personal data will not be sold or passed on to third parties without your express consent.
 
 We would like to point out that data transmission on the Internet (e.g. in communication by e-mail)
-may have security holes. A complete protection of data against access by third parties is not possible with the current state of the art. You are welcome to use PGP and thereby at least make access to information more difficult for third parties. Please use the public key above for your communication with us.
+may have security holes. A complete protection of data against access by third parties is not possible with the current state of technology. You are welcome to use PGP and thereby at least make access to information more difficult for third parties. Please use the public key above for your communication with us.
 
-Right to information, deletion, blocking
+### Right to information, deletion, blocking
 You have the right to free information about your stored personal data at any time.
 data, their origin and recipients and the purpose of the data processing as well as a right to
-Correction, blocking or deletion of this data. For this and other questions on the subject
-personal data can be sent to the above address at any time to
-and we'll turn.
+correction, blocking or deletion of this data. For this and other questions on the subject
+personal data can be sent to the above address at any time.
 
 *Privacy policy based on https://www.e-recht24.de/impressum-generator.html*
 
 
-*Translated with www.DeepL.com/Translator*
+*[Translated with www.DeepL.com/Translator](www.DeepL.com/Translator)*
