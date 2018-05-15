@@ -107,7 +107,7 @@ Wir signieren unsere E-Mails zudem mit S/MIME, um deren Authentizität  nachzuwe
 
 Unsere Anbieterkennzeichnung laut § 5 TMG ist wie folgt:
 
-Die Volz Innovation GmbH, Kirchhaldenweg 10, 76597 Loffenau wird vertreten durch Geschäftsführender Gesellschafter Prof.Dr. Raphael Volz. Sie können uns telefonisch unter +49 7083 9328338 erreichen, gerne auch eine E-Mail an info@volzinnovation.com, falls sie gerade online sind. Die Firma wird vom Registergericht Mannheim unter der  Registernummer HRB 70 44 18 geführt. Unsere Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz ist DE 25 99 68 336.
+Die Volz Innovation GmbH, Kirchhaldenweg 10, 76597 Loffenau wird vertreten durch den geschäftsführenden Gesellschafter Prof. Dr. Raphael Volz. Sie können uns telefonisch unter +49 7083 9328338 erreichen, gerne auch per E-Mail an info@volzinnovation.com, falls sie gerade online sind. Die Firma wird vom Registergericht Mannheim unter der  Registernummer HRB 70 44 18 geführt. Unsere Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz ist DE 25 99 68 336.
 Da wir keine Leistungen für Verbraucher anbieten, nehmen wir an Streitbeilegungsverfahren vor einer
 Verbraucherschlichtungsstelle nicht teil.
 
@@ -148,11 +148,11 @@ dieser Datenschutzerklärung.
 
 Personenbezogene Daten werden spätestens 30 Tage nach Ablauf der gesetzlichen Aufbewahrungsfristen gelöscht. Dabei fassen wir alle E-Mails als Geschäftsbriefe auf.
 
-Die Nutzung unserer Website ist ohne Angabe personenbezogener Daten möglich. Wir nutzen weder Cookies, noch Analyse-Software zur Besucherverfolgung, und haben auch sonst weder Interesse an noch Zeit für der Überwachung unserer Webseitenbesucher. 
+Die Nutzung unserer Website ist ohne Angabe personenbezogener Daten möglich. Wir nutzen weder Cookies, noch Analyse-Software zur Besucherverfolgung, und haben weder Interesse an (noch Zeit für) Überwachung unserer Webseitenbesucher.
+
 Soweit jemals auf unserer Webseite personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden sollten, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail)
-Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist zum heutigen Stand der Technik nicht möglich. Sie können gerne PGP nutzen und dadurch Dritten zumindest den Zugriff auf Informationen zu erschweren. Nutzen sie daher bitte obenstehenden öffentlichen Schlüssel für ihre Kommunikation mit uns.
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. (Eine umfassende Erklärung, die mit ihrem Rundfunkbeitrag umfassend finanziert wurde, finden sie auf der Webseite von ARTE.)[https://www.arte.tv/sites/de/corporate/arte-und-ihre-privatsphaere-im-internet/] Also: Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist zum heutigen Stand der Technik nicht möglich. Sie können gerne PGP nutzen und dadurch Dritten zumindest den Zugriff auf Informationen zu erschweren. Nutzen sie daher bitte obenstehenden öffentlichen Schlüssel für ihre Kommunikation mit uns. Der Abruf unserer Webseiten ist mit HTTPS und TLS gesichert.
 
 ### Recht auf Auskunft, Löschung, Sperrung
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen
