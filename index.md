@@ -1,4 +1,4 @@
-[English Version](README.md)
+[English Version](english)
 
 ![Volz Innovation Logo](volz_logo.jpg)
 # 10 Jahre Volz Innovation GmbH
