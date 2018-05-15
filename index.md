@@ -4,7 +4,7 @@
 # 10 Jahre Volz Innovation GmbH
 Seit 2008 unterstützen wir führende Organisationen beim Einsatz und der Entwicklung neuer Technologien. Dabei kombinieren wir Methodenkompetenzen in Design Thinking und agiler Produktentwicklung mit solidem Projektmanagement und guter Kommunikation. 
 
-Wir gehören zu den führenden deutschen Experten in verteiltem Rechnen (Cloud Computing) und Künstliche Intelligenz (KI). Wir verstehen und sprechen Automotive, IKT, Medizintechnik, und Pharma. 
+Wir gehören zu den führenden deutschen Experten in verteiltem Rechnen (Cloud Computing) und Künstliche Intelligenz (KI). Wir verstehen und sprechen Automotive, IT, Medizintechnik, Pharma und Telco. 
 
 Neugierig ? Gerne unterstützen wir auch Ihr Vorhaben! 
 
