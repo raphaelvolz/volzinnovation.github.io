@@ -28,7 +28,7 @@ Our clients are innovation leaders in Germany and Switzerland, for example:
 ## Awards
 
 Over the years we have received numerous awards for our work. For example, we will
-for four years now by the Stifterverband der deutschen Wissenschaft for our innovative strength.
+for four years now by the Stifterverband der deutschen Wissenschaft for our innovation capabilities.
 
 ![Innovative through research 2016,2017](FuE16.png)
 ![Innovative through research 2018,2019](FuE18.png)
