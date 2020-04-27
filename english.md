@@ -2,7 +2,12 @@
 
 ![Volz Innovation Logo](volz_logo.jpg)
 
-# 10 years of Volz Innovation GmbH
+# Global Covid-19 projections
+
+[Our projections of futureCovid-19 cases worldwide are updated daily.](https://www.volzinnovation.com/covid-19_SARS-CoV-2_corona/)
+
+# 12 years of Volz Innovation
+
 Since 2008 we have been supporting leading organisations in the use and development of new technologies. We combine methodological skills in design thinking and agile product development with solid project management and good communication. 
 
 We belong to the leading German experts in Cloud Computing and Artificial Intelligence (AI). We understand and speak automotive, ICT, medical technology, and pharmaceuticals. 

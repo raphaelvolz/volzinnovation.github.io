@@ -1,7 +1,12 @@
 [English Version](english)
 
 ![Volz Innovation Logo](volz_logo.jpg)
-# 10 Jahre Volz Innovation GmbH
+
+# Covid-19 Prognosen
+
+[Unsere Prognosen für den weiteren Verlauf der Covid-19 Fälle weltweit werden täglich aktualisiert.](https://www.volzinnovation.com/covid-19_SARS-CoV-2_corona/)
+
+# 12 Jahre Volz Innovation
 Seit 2008 unterstützen wir führende Organisationen beim Einsatz und der Entwicklung neuer Technologien. Dabei kombinieren wir Methodenkompetenzen in Design Thinking und agiler Produktentwicklung mit solidem Projektmanagement und guter Kommunikation. 
 
 Wir gehören zu den führenden deutschen Experten in verteiltem Rechnen (Cloud Computing) und Künstliche Intelligenz (KI). Wir verstehen und sprechen Automotive, IT, Medizintechnik, Pharma und Telco. 
