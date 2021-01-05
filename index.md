@@ -47,7 +47,7 @@ Werkstudierende und Praktikant(in)en können auch in unserem Büro im [EMMA Krea
 
 Rufen Sie uns an [+49 70 83 93 28 338](tel:+4970839328338) oder schreiben Sie an [info@volzinnovation.com](mailto:info@volzinnovation.com), gerne verschlüsselt (siehe unten). Wir freuen uns auch immer über Besucher, bitte stimmen sie einen Besuchstermin vorher per Telefon oder E-Mail ab:
 
-Volz Innovation GmbH, Kirchhaldenweg 10, D-76597 Loffenau ([Karte](https://www.openstreetmap.org/way/220058489))
+Volz Innovation GmbH i.L., Kirchhaldenweg 10, D-76597 Loffenau ([Karte](https://www.openstreetmap.org/way/220058489))
 
 ## Sichere Kommunikation
 Bitte nutzen Sie den folgenden öffentlichen PGP Schlüssel, um uns eine vertrauliche Nachricht zu schicken. 
