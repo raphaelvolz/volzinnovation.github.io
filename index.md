@@ -112,7 +112,7 @@ Wir signieren unsere E-Mails zudem mit S/MIME, um deren Authentizität  nachzuwe
 
 Unsere Anbieterkennzeichnung laut § 5 TMG ist wie folgt:
 
-Die Volz Innovation GmbH, Kirchhaldenweg 10, 76597 Loffenau wird vertreten durch den geschäftsführenden Gesellschafter Prof. Dr. Raphael Volz. Sie können uns telefonisch unter +49 7083 9328338 erreichen, gerne auch per E-Mail an info@volzinnovation.com, falls sie gerade online sind. Die Firma wird vom Registergericht Mannheim unter der  Registernummer HRB 70 44 18 geführt. Unsere Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz ist DE 25 99 68 336.
+Die Volz Innovation GmbH i.L., Kirchhaldenweg 10, 76597 Loffenau wird vertreten durch den geschäftsführenden Gesellschafter Prof. Dr. Raphael Volz. Sie können uns telefonisch unter +49 7083 9328338 erreichen, gerne auch per E-Mail an info@volzinnovation.com, falls sie gerade online sind. Die Firma wird vom Registergericht Mannheim unter der  Registernummer HRB 70 44 18 geführt. Unsere Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz ist DE 25 99 68 336.
 Da wir keine Leistungen für Verbraucher anbieten, nehmen wir an Streitbeilegungsverfahren vor einer
 Verbraucherschlichtungsstelle nicht teil.
 
