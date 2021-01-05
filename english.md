@@ -49,7 +49,7 @@ Call us at [+49 70 83 93 93 28 338](tel:+4970839328338) or write to [info@volzin
 
 We always welcome visitors, please make an appointment in advance by phone or e-mail:
 
-Volz Innovation GmbH, Kirchhaldenweg 10, D-76597 Loffenau ([map](https://www.openstreetmap.org/way/220058489))
+Volz Innovation GmbH i.L., Kirchhaldenweg 10, D-76597 Loffenau ([map](https://www.openstreetmap.org/way/220058489))
 
 ## Secure communication
 Please use the following public PGP key to send us a confidential message. 
