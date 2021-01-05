@@ -114,7 +114,7 @@ We also sign our e-mails with S/MIME to prove their authenticity.
 
 Our provider identification according to § 5 TMG is as follows:
 
-Volz Innovation GmbH, Kirchhaldenweg 10, 76597 Loffenau is represented by the managing partner Prof.Dr. Raphael Volz. You can reach us by phone at +49 7083 9328338 or send an e-mail to info@volzinnovation.com if you are currently online. The company is registered at the Mannheim Court of Registration under the registration number HRB 70 44 18. Our value added tax identification number according to §27 a value added tax law is DE 25 99 68 336.
+Volz Innovation GmbH i.L., Kirchhaldenweg 10, 76597 Loffenau is represented by the managing partner Prof.Dr. Raphael Volz. You can reach us by phone at +49 7083 9328338 or send an e-mail to info@volzinnovation.com if you are currently online. The company is registered at the Mannheim Court of Registration under the registration number HRB 70 44 18. Our value added tax identification number according to §27 a value added tax law is DE 25 99 68 336.
 Since we do not offer services to consumers, we participate in dispute resolution proceedings before a
 consumer arbitration board.
 
